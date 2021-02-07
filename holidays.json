@@ -1,0 +1,1058 @@
+[
+    {
+        "year": 2015,
+        "holidays": [
+            {
+                "date": "2015-05-08",
+                "start": "2015-05-08T00:00:00.000Z",
+                "end": "2015-05-09T00:00:00.000Z",
+                "name": "Iris Day",
+                "type": "Regional",
+                "public": false,
+                "country": "BE"
+            },
+            {
+                "date": "2015-01-01",
+                "start": "2015-01-01T00:00:00.000Z",
+                "end": "2015-01-02T00:00:00.000Z",
+                "name": "Nouvel An",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2015-01-06",
+                "start": "2015-01-06T00:00:00.000Z",
+                "end": "2015-01-07T00:00:00.000Z",
+                "name": "l'Épiphanie",
+                "type": "observance",
+                "public": false,
+                "country": "BE"
+            },
+            {
+                "date": "2015-02-14",
+                "start": "2015-02-14T00:00:00.000Z",
+                "end": "2015-02-15T00:00:00.000Z",
+                "name": "Saint-Valentin",
+                "type": "observance",
+                "public": false,
+                "country": "BE"
+            },
+            {
+                "date": "2015-04-05",
+                "start": "2015-04-05T00:00:00.000Z",
+                "end": "2015-04-06T00:00:00.000Z",
+                "name": "Pâques",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2015-04-06",
+                "start": "2015-04-06T00:00:00.000Z",
+                "end": "2015-04-07T00:00:00.000Z",
+                "name": "Lundi de Pâques",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2015-05-01",
+                "start": "2015-05-01T00:00:00.000Z",
+                "end": "2015-05-02T00:00:00.000Z",
+                "name": "Fête du travail",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2015-05-10",
+                "start": "2015-05-10T00:00:00.000Z",
+                "end": "2015-05-11T00:00:00.000Z",
+                "name": "Fête des Mères",
+                "type": "observance",
+                "public": false,
+                "country": "BE"
+            },
+            {
+                "date": "2015-05-14",
+                "start": "2015-05-14T00:00:00.000Z",
+                "end": "2015-05-15T00:00:00.000Z",
+                "name": "Ascension",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2015-05-24",
+                "start": "2015-05-24T00:00:00.000Z",
+                "end": "2015-05-25T00:00:00.000Z",
+                "name": "Pentecôte",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2015-05-25",
+                "start": "2015-05-25T00:00:00.000Z",
+                "end": "2015-05-26T00:00:00.000Z",
+                "name": "Lundi de Pentecôte",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2015-07-21",
+                "start": "2015-07-21T00:00:00.000Z",
+                "end": "2015-07-22T00:00:00.000Z",
+                "name": "Fête nationale",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2015-08-15",
+                "start": "2015-08-15T00:00:00.000Z",
+                "end": "2015-08-16T00:00:00.000Z",
+                "name": "Assomption",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2015-11-01",
+                "start": "2015-11-01T00:00:00.000Z",
+                "end": "2015-11-02T00:00:00.000Z",
+                "name": "Toussaint",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2015-11-02",
+                "start": "2015-11-02T00:00:00.000Z",
+                "end": "2015-11-03T00:00:00.000Z",
+                "name": "Fête des morts",
+                "type": "observance",
+                "public": false,
+                "country": "BE"
+            },
+            {
+                "date": "2015-11-11",
+                "start": "2015-11-11T00:00:00.000Z",
+                "end": "2015-11-12T00:00:00.000Z",
+                "name": "Armistice",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2015-11-15",
+                "start": "2015-11-15T00:00:00.000Z",
+                "end": "2015-11-16T00:00:00.000Z",
+                "name": "Fête du Roi",
+                "type": "observance",
+                "public": false,
+                "country": "BE"
+            },
+            {
+                "date": "2015-12-06",
+                "start": "2015-12-06T00:00:00.000Z",
+                "end": "2015-12-07T00:00:00.000Z",
+                "name": "Saint-Nicolas",
+                "type": "observance",
+                "public": false,
+                "country": "BE"
+            },
+            {
+                "date": "2015-12-25",
+                "start": "2015-12-25T00:00:00.000Z",
+                "end": "2015-12-26T00:00:00.000Z",
+                "name": "Noël",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            }
+        ]
+    },
+    {
+        "year": 2016,
+        "holidays": [
+            {
+                "date": "2016-05-08",
+                "start": "2016-05-08T00:00:00.000Z",
+                "end": "2016-05-09T00:00:00.000Z",
+                "name": "Iris Day",
+                "type": "Regional",
+                "public": false,
+                "country": "BE"
+            },
+            {
+                "date": "2016-01-01",
+                "start": "2016-01-01T00:00:00.000Z",
+                "end": "2016-01-02T00:00:00.000Z",
+                "name": "Nouvel An",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2016-01-06",
+                "start": "2016-01-06T00:00:00.000Z",
+                "end": "2016-01-07T00:00:00.000Z",
+                "name": "l'Épiphanie",
+                "type": "observance",
+                "public": false,
+                "country": "BE"
+            },
+            {
+                "date": "2016-02-14",
+                "start": "2016-02-14T00:00:00.000Z",
+                "end": "2016-02-15T00:00:00.000Z",
+                "name": "Saint-Valentin",
+                "type": "observance",
+                "public": false,
+                "country": "BE"
+            },
+            {
+                "date": "2016-03-27",
+                "start": "2016-03-27T00:00:00.000Z",
+                "end": "2016-03-28T00:00:00.000Z",
+                "name": "Pâques",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2016-03-28",
+                "start": "2016-03-28T00:00:00.000Z",
+                "end": "2016-03-29T00:00:00.000Z",
+                "name": "Lundi de Pâques",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2016-05-01",
+                "start": "2016-05-01T00:00:00.000Z",
+                "end": "2016-05-02T00:00:00.000Z",
+                "name": "Fête du travail",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2016-05-05",
+                "start": "2016-05-05T00:00:00.000Z",
+                "end": "2016-05-06T00:00:00.000Z",
+                "name": "Ascension",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2016-05-08",
+                "start": "2016-05-08T00:00:00.000Z",
+                "end": "2016-05-09T00:00:00.000Z",
+                "name": "Fête des Mères",
+                "type": "observance",
+                "public": false,
+                "country": "BE"
+            },
+            {
+                "date": "2016-05-15",
+                "start": "2016-05-15T00:00:00.000Z",
+                "end": "2016-05-16T00:00:00.000Z",
+                "name": "Pentecôte",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2016-05-16",
+                "start": "2016-05-16T00:00:00.000Z",
+                "end": "2016-05-17T00:00:00.000Z",
+                "name": "Lundi de Pentecôte",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2016-07-21",
+                "start": "2016-07-21T00:00:00.000Z",
+                "end": "2016-07-22T00:00:00.000Z",
+                "name": "Fête nationale",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2016-08-15",
+                "start": "2016-08-15T00:00:00.000Z",
+                "end": "2016-08-16T00:00:00.000Z",
+                "name": "Assomption",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2016-11-01",
+                "start": "2016-11-01T00:00:00.000Z",
+                "end": "2016-11-02T00:00:00.000Z",
+                "name": "Toussaint",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2016-11-02",
+                "start": "2016-11-02T00:00:00.000Z",
+                "end": "2016-11-03T00:00:00.000Z",
+                "name": "Fête des morts",
+                "type": "observance",
+                "public": false,
+                "country": "BE"
+            },
+            {
+                "date": "2016-11-11",
+                "start": "2016-11-11T00:00:00.000Z",
+                "end": "2016-11-12T00:00:00.000Z",
+                "name": "Armistice",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2016-11-15",
+                "start": "2016-11-15T00:00:00.000Z",
+                "end": "2016-11-16T00:00:00.000Z",
+                "name": "Fête du Roi",
+                "type": "observance",
+                "public": false,
+                "country": "BE"
+            },
+            {
+                "date": "2016-12-06",
+                "start": "2016-12-06T00:00:00.000Z",
+                "end": "2016-12-07T00:00:00.000Z",
+                "name": "Saint-Nicolas",
+                "type": "observance",
+                "public": false,
+                "country": "BE"
+            },
+            {
+                "date": "2016-12-25",
+                "start": "2016-12-25T00:00:00.000Z",
+                "end": "2016-12-26T00:00:00.000Z",
+                "name": "Noël",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            }
+        ]
+    },
+    {
+        "year": 2017,
+        "holidays": [
+            {
+                "date": "2017-05-08",
+                "start": "2017-05-08T00:00:00.000Z",
+                "end": "2017-05-09T00:00:00.000Z",
+                "name": "Iris Day",
+                "type": "Regional",
+                "public": false,
+                "country": "BE"
+            },
+            {
+                "date": "2017-01-01",
+                "start": "2017-01-01T00:00:00.000Z",
+                "end": "2017-01-02T00:00:00.000Z",
+                "name": "Nouvel An",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2017-01-06",
+                "start": "2017-01-06T00:00:00.000Z",
+                "end": "2017-01-07T00:00:00.000Z",
+                "name": "l'Épiphanie",
+                "type": "observance",
+                "public": false,
+                "country": "BE"
+            },
+            {
+                "date": "2017-02-14",
+                "start": "2017-02-14T00:00:00.000Z",
+                "end": "2017-02-15T00:00:00.000Z",
+                "name": "Saint-Valentin",
+                "type": "observance",
+                "public": false,
+                "country": "BE"
+            },
+            {
+                "date": "2017-04-16",
+                "start": "2017-04-16T00:00:00.000Z",
+                "end": "2017-04-17T00:00:00.000Z",
+                "name": "Pâques",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2017-04-17",
+                "start": "2017-04-17T00:00:00.000Z",
+                "end": "2017-04-18T00:00:00.000Z",
+                "name": "Lundi de Pâques",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2017-05-01",
+                "start": "2017-05-01T00:00:00.000Z",
+                "end": "2017-05-02T00:00:00.000Z",
+                "name": "Fête du travail",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2017-05-14",
+                "start": "2017-05-14T00:00:00.000Z",
+                "end": "2017-05-15T00:00:00.000Z",
+                "name": "Fête des Mères",
+                "type": "observance",
+                "public": false,
+                "country": "BE"
+            },
+            {
+                "date": "2017-05-25",
+                "start": "2017-05-25T00:00:00.000Z",
+                "end": "2017-05-26T00:00:00.000Z",
+                "name": "Ascension",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2017-06-04",
+                "start": "2017-06-04T00:00:00.000Z",
+                "end": "2017-06-05T00:00:00.000Z",
+                "name": "Pentecôte",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2017-06-05",
+                "start": "2017-06-05T00:00:00.000Z",
+                "end": "2017-06-06T00:00:00.000Z",
+                "name": "Lundi de Pentecôte",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2017-07-21",
+                "start": "2017-07-21T00:00:00.000Z",
+                "end": "2017-07-22T00:00:00.000Z",
+                "name": "Fête nationale",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2017-08-15",
+                "start": "2017-08-15T00:00:00.000Z",
+                "end": "2017-08-16T00:00:00.000Z",
+                "name": "Assomption",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2017-11-01",
+                "start": "2017-11-01T00:00:00.000Z",
+                "end": "2017-11-02T00:00:00.000Z",
+                "name": "Toussaint",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2017-11-02",
+                "start": "2017-11-02T00:00:00.000Z",
+                "end": "2017-11-03T00:00:00.000Z",
+                "name": "Fête des morts",
+                "type": "observance",
+                "public": false,
+                "country": "BE"
+            },
+            {
+                "date": "2017-11-11",
+                "start": "2017-11-11T00:00:00.000Z",
+                "end": "2017-11-12T00:00:00.000Z",
+                "name": "Armistice",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2017-11-15",
+                "start": "2017-11-15T00:00:00.000Z",
+                "end": "2017-11-16T00:00:00.000Z",
+                "name": "Fête du Roi",
+                "type": "observance",
+                "public": false,
+                "country": "BE"
+            },
+            {
+                "date": "2017-12-06",
+                "start": "2017-12-06T00:00:00.000Z",
+                "end": "2017-12-07T00:00:00.000Z",
+                "name": "Saint-Nicolas",
+                "type": "observance",
+                "public": false,
+                "country": "BE"
+            },
+            {
+                "date": "2017-12-25",
+                "start": "2017-12-25T00:00:00.000Z",
+                "end": "2017-12-26T00:00:00.000Z",
+                "name": "Noël",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            }
+        ]
+    },
+    {
+        "year": 2018,
+        "holidays": [
+            {
+                "date": "2018-05-08",
+                "start": "2018-05-08T00:00:00.000Z",
+                "end": "2018-05-09T00:00:00.000Z",
+                "name": "Iris Day",
+                "type": "Regional",
+                "public": false,
+                "country": "BE"
+            },
+            {
+                "date": "2018-01-01",
+                "start": "2018-01-01T00:00:00.000Z",
+                "end": "2018-01-02T00:00:00.000Z",
+                "name": "Nouvel An",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2018-01-06",
+                "start": "2018-01-06T00:00:00.000Z",
+                "end": "2018-01-07T00:00:00.000Z",
+                "name": "l'Épiphanie",
+                "type": "observance",
+                "public": false,
+                "country": "BE"
+            },
+            {
+                "date": "2018-02-14",
+                "start": "2018-02-14T00:00:00.000Z",
+                "end": "2018-02-15T00:00:00.000Z",
+                "name": "Saint-Valentin",
+                "type": "observance",
+                "public": false,
+                "country": "BE"
+            },
+            {
+                "date": "2018-04-01",
+                "start": "2018-04-01T00:00:00.000Z",
+                "end": "2018-04-02T00:00:00.000Z",
+                "name": "Pâques",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2018-04-02",
+                "start": "2018-04-02T00:00:00.000Z",
+                "end": "2018-04-03T00:00:00.000Z",
+                "name": "Lundi de Pâques",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2018-05-01",
+                "start": "2018-05-01T00:00:00.000Z",
+                "end": "2018-05-02T00:00:00.000Z",
+                "name": "Fête du travail",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2018-05-10",
+                "start": "2018-05-10T00:00:00.000Z",
+                "end": "2018-05-11T00:00:00.000Z",
+                "name": "Ascension",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2018-05-13",
+                "start": "2018-05-13T00:00:00.000Z",
+                "end": "2018-05-14T00:00:00.000Z",
+                "name": "Fête des Mères",
+                "type": "observance",
+                "public": false,
+                "country": "BE"
+            },
+            {
+                "date": "2018-05-20",
+                "start": "2018-05-20T00:00:00.000Z",
+                "end": "2018-05-21T00:00:00.000Z",
+                "name": "Pentecôte",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2018-05-21",
+                "start": "2018-05-21T00:00:00.000Z",
+                "end": "2018-05-22T00:00:00.000Z",
+                "name": "Lundi de Pentecôte",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2018-07-21",
+                "start": "2018-07-21T00:00:00.000Z",
+                "end": "2018-07-22T00:00:00.000Z",
+                "name": "Fête nationale",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2018-08-15",
+                "start": "2018-08-15T00:00:00.000Z",
+                "end": "2018-08-16T00:00:00.000Z",
+                "name": "Assomption",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2018-11-01",
+                "start": "2018-11-01T00:00:00.000Z",
+                "end": "2018-11-02T00:00:00.000Z",
+                "name": "Toussaint",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2018-11-02",
+                "start": "2018-11-02T00:00:00.000Z",
+                "end": "2018-11-03T00:00:00.000Z",
+                "name": "Fête des morts",
+                "type": "observance",
+                "public": false,
+                "country": "BE"
+            },
+            {
+                "date": "2018-11-11",
+                "start": "2018-11-11T00:00:00.000Z",
+                "end": "2018-11-12T00:00:00.000Z",
+                "name": "Armistice",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2018-11-15",
+                "start": "2018-11-15T00:00:00.000Z",
+                "end": "2018-11-16T00:00:00.000Z",
+                "name": "Fête du Roi",
+                "type": "observance",
+                "public": false,
+                "country": "BE"
+            },
+            {
+                "date": "2018-12-06",
+                "start": "2018-12-06T00:00:00.000Z",
+                "end": "2018-12-07T00:00:00.000Z",
+                "name": "Saint-Nicolas",
+                "type": "observance",
+                "public": false,
+                "country": "BE"
+            },
+            {
+                "date": "2018-12-25",
+                "start": "2018-12-25T00:00:00.000Z",
+                "end": "2018-12-26T00:00:00.000Z",
+                "name": "Noël",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            }
+        ]
+    },
+    {
+        "year": 2019,
+        "holidays": [
+            {
+                "date": "2019-05-08",
+                "start": "2019-05-08T00:00:00.000Z",
+                "end": "2019-05-09T00:00:00.000Z",
+                "name": "Iris Day",
+                "type": "Regional",
+                "public": false,
+                "country": "BE"
+            },
+            {
+                "date": "2019-01-01",
+                "start": "2019-01-01T00:00:00.000Z",
+                "end": "2019-01-02T00:00:00.000Z",
+                "name": "Nouvel An",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2019-01-06",
+                "start": "2019-01-06T00:00:00.000Z",
+                "end": "2019-01-07T00:00:00.000Z",
+                "name": "l'Épiphanie",
+                "type": "observance",
+                "public": false,
+                "country": "BE"
+            },
+            {
+                "date": "2019-02-14",
+                "start": "2019-02-14T00:00:00.000Z",
+                "end": "2019-02-15T00:00:00.000Z",
+                "name": "Saint-Valentin",
+                "type": "observance",
+                "public": false,
+                "country": "BE"
+            },
+            {
+                "date": "2019-04-21",
+                "start": "2019-04-21T00:00:00.000Z",
+                "end": "2019-04-22T00:00:00.000Z",
+                "name": "Pâques",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2019-04-22",
+                "start": "2019-04-22T00:00:00.000Z",
+                "end": "2019-04-23T00:00:00.000Z",
+                "name": "Lundi de Pâques",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2019-05-01",
+                "start": "2019-05-01T00:00:00.000Z",
+                "end": "2019-05-02T00:00:00.000Z",
+                "name": "Fête du travail",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2019-05-12",
+                "start": "2019-05-12T00:00:00.000Z",
+                "end": "2019-05-13T00:00:00.000Z",
+                "name": "Fête des Mères",
+                "type": "observance",
+                "public": false,
+                "country": "BE"
+            },
+            {
+                "date": "2019-05-30",
+                "start": "2019-05-30T00:00:00.000Z",
+                "end": "2019-05-31T00:00:00.000Z",
+                "name": "Ascension",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2019-06-09",
+                "start": "2019-06-09T00:00:00.000Z",
+                "end": "2019-06-10T00:00:00.000Z",
+                "name": "Pentecôte",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2019-06-10",
+                "start": "2019-06-10T00:00:00.000Z",
+                "end": "2019-06-11T00:00:00.000Z",
+                "name": "Lundi de Pentecôte",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2019-07-21",
+                "start": "2019-07-21T00:00:00.000Z",
+                "end": "2019-07-22T00:00:00.000Z",
+                "name": "Fête nationale",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2019-08-15",
+                "start": "2019-08-15T00:00:00.000Z",
+                "end": "2019-08-16T00:00:00.000Z",
+                "name": "Assomption",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2019-11-01",
+                "start": "2019-11-01T00:00:00.000Z",
+                "end": "2019-11-02T00:00:00.000Z",
+                "name": "Toussaint",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2019-11-02",
+                "start": "2019-11-02T00:00:00.000Z",
+                "end": "2019-11-03T00:00:00.000Z",
+                "name": "Fête des morts",
+                "type": "observance",
+                "public": false,
+                "country": "BE"
+            },
+            {
+                "date": "2019-11-11",
+                "start": "2019-11-11T00:00:00.000Z",
+                "end": "2019-11-12T00:00:00.000Z",
+                "name": "Armistice",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2019-11-15",
+                "start": "2019-11-15T00:00:00.000Z",
+                "end": "2019-11-16T00:00:00.000Z",
+                "name": "Fête du Roi",
+                "type": "observance",
+                "public": false,
+                "country": "BE"
+            },
+            {
+                "date": "2019-12-06",
+                "start": "2019-12-06T00:00:00.000Z",
+                "end": "2019-12-07T00:00:00.000Z",
+                "name": "Saint-Nicolas",
+                "type": "observance",
+                "public": false,
+                "country": "BE"
+            },
+            {
+                "date": "2019-12-25",
+                "start": "2019-12-25T00:00:00.000Z",
+                "end": "2019-12-26T00:00:00.000Z",
+                "name": "Noël",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            }
+        ]
+    },
+    {
+        "year": 2020,
+        "holidays": [
+            {
+                "date": "2020-05-08",
+                "start": "2020-05-08T00:00:00.000Z",
+                "end": "2020-05-09T00:00:00.000Z",
+                "name": "Iris Day",
+                "type": "Regional",
+                "public": false,
+                "country": "BE"
+            },
+            {
+                "date": "2020-01-01",
+                "start": "2020-01-01T00:00:00.000Z",
+                "end": "2020-01-02T00:00:00.000Z",
+                "name": "Nouvel An",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2020-01-06",
+                "start": "2020-01-06T00:00:00.000Z",
+                "end": "2020-01-07T00:00:00.000Z",
+                "name": "l'Épiphanie",
+                "type": "observance",
+                "public": false,
+                "country": "BE"
+            },
+            {
+                "date": "2020-02-14",
+                "start": "2020-02-14T00:00:00.000Z",
+                "end": "2020-02-15T00:00:00.000Z",
+                "name": "Saint-Valentin",
+                "type": "observance",
+                "public": false,
+                "country": "BE"
+            },
+            {
+                "date": "2020-04-12",
+                "start": "2020-04-12T00:00:00.000Z",
+                "end": "2020-04-13T00:00:00.000Z",
+                "name": "Pâques",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2020-04-13",
+                "start": "2020-04-13T00:00:00.000Z",
+                "end": "2020-04-14T00:00:00.000Z",
+                "name": "Lundi de Pâques",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2020-05-01",
+                "start": "2020-05-01T00:00:00.000Z",
+                "end": "2020-05-02T00:00:00.000Z",
+                "name": "Fête du travail",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2020-05-10",
+                "start": "2020-05-10T00:00:00.000Z",
+                "end": "2020-05-11T00:00:00.000Z",
+                "name": "Fête des Mères",
+                "type": "observance",
+                "public": false,
+                "country": "BE"
+            },
+            {
+                "date": "2020-05-21",
+                "start": "2020-05-21T00:00:00.000Z",
+                "end": "2020-05-22T00:00:00.000Z",
+                "name": "Ascension",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2020-05-31",
+                "start": "2020-05-31T00:00:00.000Z",
+                "end": "2020-06-01T00:00:00.000Z",
+                "name": "Pentecôte",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2020-06-01",
+                "start": "2020-06-01T00:00:00.000Z",
+                "end": "2020-06-02T00:00:00.000Z",
+                "name": "Lundi de Pentecôte",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2020-07-21",
+                "start": "2020-07-21T00:00:00.000Z",
+                "end": "2020-07-22T00:00:00.000Z",
+                "name": "Fête nationale",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2020-08-15",
+                "start": "2020-08-15T00:00:00.000Z",
+                "end": "2020-08-16T00:00:00.000Z",
+                "name": "Assomption",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2020-11-01",
+                "start": "2020-11-01T00:00:00.000Z",
+                "end": "2020-11-02T00:00:00.000Z",
+                "name": "Toussaint",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2020-11-02",
+                "start": "2020-11-02T00:00:00.000Z",
+                "end": "2020-11-03T00:00:00.000Z",
+                "name": "Fête des morts",
+                "type": "observance",
+                "public": false,
+                "country": "BE"
+            },
+            {
+                "date": "2020-11-11",
+                "start": "2020-11-11T00:00:00.000Z",
+                "end": "2020-11-12T00:00:00.000Z",
+                "name": "Armistice",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            },
+            {
+                "date": "2020-11-15",
+                "start": "2020-11-15T00:00:00.000Z",
+                "end": "2020-11-16T00:00:00.000Z",
+                "name": "Fête du Roi",
+                "type": "observance",
+                "public": false,
+                "country": "BE"
+            },
+            {
+                "date": "2020-12-06",
+                "start": "2020-12-06T00:00:00.000Z",
+                "end": "2020-12-07T00:00:00.000Z",
+                "name": "Saint-Nicolas",
+                "type": "observance",
+                "public": false,
+                "country": "BE"
+            },
+            {
+                "date": "2020-12-25",
+                "start": "2020-12-25T00:00:00.000Z",
+                "end": "2020-12-26T00:00:00.000Z",
+                "name": "Noël",
+                "type": "public",
+                "public": true,
+                "country": "BE"
+            }
+        ]
+    }
+]
